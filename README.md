@@ -1,5 +1,5 @@
 # robot
-Re-designed exercise from the Exercism platform.
+Re-designed [robot-name exercise](https://exercism.org/tracks/go/exercises/robot-name) from the Exercism platform.
 
 ## Run tests
 
