@@ -1,5 +1,5 @@
 // package robotname contains solution for Robot Name exercise on Exercism.
-package robotname
+package robot
 
 import (
 	"errors"

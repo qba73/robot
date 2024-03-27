@@ -1,4 +1,4 @@
-package robotname
+package robot
 
 import (
 	"regexp"
