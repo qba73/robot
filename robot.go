@@ -1,4 +1,4 @@
-// package robotname contains solution for Robot Name exercise on Exercism.
+// package robot contains solution for Robot Name exercise on Exercism.
 package robot
 
 import (
